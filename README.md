@@ -1,7 +1,7 @@
 # 2a_Stop_and_Wait_Protocol
 
-### Name: Karthikeyan R
-### Reg.NO: 212222240046
+### Name: MUKESH
+### Reg.NO: 212223230128
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
